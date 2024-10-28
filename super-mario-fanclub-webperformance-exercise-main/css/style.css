@@ -25,6 +25,7 @@ body, ul, li, h1, h2, a{
   }
   .banner{
     position: relative;
+    width: 100%;
   }
   .banner img{
     width: 100%;
